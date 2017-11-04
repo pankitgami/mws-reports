@@ -1,0 +1,21 @@
+{
+    "name": "pankitgami/mws-reports",
+    "type": "library",
+    "description": "Amazon Marketplace Web Service Reports PHP Client Library",
+    "keywords": ["amazon", "mws", "reports", "client", "api", "library"],
+    "licence": "Apache-2.0",
+    "authors": [
+        {
+          "name": "Pankit Gami",
+          "email": "pankitgami12@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.8",
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "include-path": ["src/"]
+}
