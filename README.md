@@ -6,7 +6,7 @@ Installation
 
 Install [Composer](http://getcomposer.org/) and add mws-reports to your `composer.json`:
 
-    composer require pankitgami/mws-reports
+    composer require pankitgami/mws-reports-feeds
 
 Version
 -------
