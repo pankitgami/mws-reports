@@ -1,8 +1,8 @@
 {
-    "name": "pankitgami/mws-reports",
+    "name": "pankitgami/mws-reports-feeds",
     "type": "library",
-    "description": "Amazon Marketplace Web Service Reports PHP Client Library",
-    "keywords": ["amazon", "mws", "reports", "client", "api", "library"],
+    "description": "Amazon Marketplace Web Service Reports and Feeds PHP Client Library",
+    "keywords": ["amazon", "mws", "reports", "feeds", "client", "api", "library"],
     "licence": "Apache-2.0",
     "authors": [
         {
